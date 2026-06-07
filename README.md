@@ -49,7 +49,7 @@ python-for-robotics/
 - [x] Input and Output
 - [x] Operators
 - [x] Conditions
-- [ ] Loops
+- [x] Loops
 - [ ] Functions
 - [ ] OOP
 - [ ] Mini Projects
