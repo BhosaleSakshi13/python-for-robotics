@@ -1,0 +1,14 @@
+Loops are the most important topics in robotics:
+
+why ? 
+Because robots continuously do things like :
+	Read Sensor 
+	Check obstacle
+	Move 
+	Read Sensor again
+	Check obstacle again
+	move again
+	...
+
+This repetition is done using loops.
+
